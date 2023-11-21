@@ -5,8 +5,8 @@
 <br></br>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joaoBatista04&show_icons=true&count_private=true&hide_border=true&title_color=2d77e2&icon_color=2d77e2&text_color=ffffff&bg_color=0d1117" alt="João Batista github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoBatista04&layout=compact&hide_border=true&title_color=2d77e2&text_color=ffffff&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Campos1911&show_icons=true&count_private=true&hide_border=true&title_color=2d77e2&icon_color=2d77e2&text_color=ffffff&bg_color=0d1117" alt="João Batista github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Campos1911&layout=compact&hide_border=true&title_color=2d77e2&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 <br></br>
@@ -35,10 +35,6 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <a/>
     
-  <a href="../../../?tab=repositories&q=&type=&language=html&sort=" target="_blank"> 
-  <img align="center" alt="CPP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <a/>
-    
   <a href="https://github.com/AfonsoSalvador">
   <img align="center" alt="VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <a/>
@@ -46,8 +42,8 @@
     
 <br></br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=joaoBatista04&bg_color=0d1117&color=ffffff&line=4100ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Campos1911&bg_color=0d1117&color=ffffff&line=4100ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joaoBatista04&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Campos1911&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
