@@ -20,7 +20,7 @@
   <a/>
       
   <a href="../../../?tab=repositories&q=&type=&language=c%2B%2B&sort=" target="_blank"> 
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css/css-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
   <a/>
     
   <a href="../../../?tab=repositories&q=&type=&language=python&sort=" target="_blank">
