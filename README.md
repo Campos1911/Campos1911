@@ -1,36 +1,46 @@
-<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2d77e2&height=120&section=header"/>
+# 👋 Hi, I'm Anthoni Campos
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2d77e2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Anthoni+Campos;I'm+20+years+old;I'm+from+Brazil;Eletrical+Engineering+Student+at+UFES;Be+Welcome!+:%29)](https://git.io/typing-svg)
+I'm a **Full Stack Developer**, **22 years old**, and currently studying **Electrical Engineering**.  
+I enjoy building practical solutions, automating processes, and constantly learning new technologies.
 
-<br></br>
+Besides coding, I also like **cooking** 🍳 — I believe software development and cooking share a lot in common: creativity, organization, and attention to detail.
 
-<!-- <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Campos1911&show_icons=true&count_private=true&hide_border=true&title_color=2d77e2&icon_color=2d77e2&text_color=ffffff&bg_color=0d1117" alt="Anthoni Campos github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Campos1911&layout=compact&hide_border=true&title_color=2d77e2&text_color=ffffff&bg_color=0d1117" />
-</div> -->
+---
 
-<!-- <br></br> -->
+## 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthoni-campos)
 
-## My Tools and Technologies
+---
 
-<div align="center" style="display: inline_block"><br>
-  
-  <img width="40" height="40" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img width="40" height="40" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
-<img width="40" height="40" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  />
-<img width="40" height="40" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img width="40" height="40" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img width="40" height="40" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img width="40" height="40" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img width="40" height="40" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img width="40" height="40" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
-<img width="40" height="40" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img width="40" height="40" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
-<img width="40" height="40" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-<img width="40" height="40" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
-</div>
-    
-<br></br>
+## 🚀 Tech Stack
 
-<!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Campos1911&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p> -->
+### 💻 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 🌐 Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🗄️ Databases
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ⚙️ Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 🧠 What I like to do
+- Build **Full Stack applications**
+- Create **automations and integrations**
+- Work with **APIs and databases**
+- Learn new technologies every day
+- Cook in my free time 🍝
+
+---
+
+⭐ If any project helps you, consider giving it a star!
