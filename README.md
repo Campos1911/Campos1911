@@ -21,8 +21,8 @@ I currently work developing backend solutions in production environments, design
 ### 🔹 Smart Lead Triage
 AI-powered backend system that processes unstructured data and generates business insights using RAG pipelines and scalable architecture.
 
-### 🔹 Order Management API
-Backend API built with NestJS implementing authentication, validation layers, and modular architecture for scalable order management systems.
+### 🔹 Personal Financial API
+Backend system designed to manage personal financial operations, enabling users to track income, expenses, and financial organization through a structured and scalable API.
 
 ---
 
