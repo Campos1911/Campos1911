@@ -18,6 +18,12 @@ I currently work developing backend solutions in production environments, design
 
 ## ⭐ Featured Projects
 
+### 🔹 GymTrack – Workout Management & Load Progression
+**Built this to solve my own frustration with tracking real strength evolution at the gym.**  
+I moved away from manual notes and generic tables to build a structured, data-driven system. This Full Stack monorepo allows me to manage active training plans, log sessions in real-time, and track load progression history for every exercise.
+- **Tech Stack:** NestJS (Fastify), Prisma, SQLite, Next.js, TailwindCSS, and React Query.
+- **Key Feature:** Implementation of "Active Plan" logic and structured session versioning to visualize long-term progress.
+
 ### 🔹 Smart Lead Triage
 AI-powered backend system that processes unstructured data and generates business insights using RAG pipelines and scalable architecture.
 
@@ -29,8 +35,9 @@ Backend system designed to manage personal financial operations, enabling users 
 ## 🛠 Tech Stack
 
 **Backend:** Node.js, NestJS, TypeScript, Python  
-**Databases:** PostgreSQL, MongoDB, Supabase  
-**Cloud & Tools:** Docker, GCP, Git  
+**Frontend:** Next.js, React, TailwindCSS  
+**Databases:** PostgreSQL, MongoDB, Supabase, SQLite  
+**ORM/Tools:** Prisma, TypeORM, Docker, GCP  
 **Automation & AI:** n8n, OpenAI API, RAG
 
 ---
