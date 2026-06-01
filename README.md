@@ -1,50 +1,68 @@
 # 👋 Hi, I'm Anthoni Campos
 
-Backend Software Engineer focused on building scalable APIs, system integrations, and automation workflows using **Node.js, NestJS, TypeScript, and Python**.
+Backend Software Engineer and Electrical Engineering student (Computer Engineering focus) at UFES (Federal University of Espírito Santo). I am driven by transforming complex business logic into efficient, scalable, and data-driven systems.
 
-I currently work developing backend solutions in production environments, designing integrations between platforms, automating operational processes, and building data-driven systems.
+Currently, I work developing backend solutions in production environments, designing API integrations, automating operational processes, and building AI-powered architectures using **Node.js, NestJS, TypeScript, and Python**.
 
 ---
 
 ## 🚀 What I Do
 
-- Design and build **REST APIs** and backend architectures
-- Develop **system integrations** (CRMs, payment gateways, external APIs)
-- Create **automation workflows** and data pipelines
-- Implement **Applied AI solutions** (RAG & LLM integrations)
-- Focus on clean architecture and scalable backend systems
+- Design and build robust **REST APIs** and backend architectures
+- Develop complex **system integrations** (CRMs, payment gateways, Webhooks)
+- Create **automation workflows** and data pipelines (ETL)
+- Implement **Applied AI solutions** (RAG, LLM integrations, AI Agents)
+- Focus on clean architecture, scalable messaging (Queues), and database modeling
 
 ---
 
 ## ⭐ Featured Projects
 
-### 🔹 GymTrack – Workout Management & Load Progression
-**Built this to solve my own frustration with tracking real strength evolution at the gym.**  
-I moved away from manual notes and generic tables to build a structured, data-driven system. This Full Stack monorepo allows me to manage active training plans, log sessions in real-time, and track load progression history for every exercise.
-- **Tech Stack:** NestJS (Fastify), Prisma, SQLite, Next.js, TailwindCSS, and React Query.
-- **Key Feature:** Implementation of "Active Plan" logic and structured session versioning to visualize long-term progress.
+### 🧠 My Second Brain Hub
+**Modular platform for personal productivity, finances, routines, and task management.**
+A centralized, highly scalable ecosystem I built to manage everyday life operations. It features separated modules (like financial tracking and training routines) united under a single robust architecture.
+- **Tech Stack:** TypeScript, Node.js.
+- [🔗 View Repository](https://github.com/Campos1911/my-second-brain)
 
-### 🔹 Smart Lead Triage
-AI-powered backend system that processes unstructured data and generates business insights using RAG pipelines and scalable architecture.
+### 🏋️ Train Tracker (GymTrack)
+**A data-driven solution to track real strength evolution at the gym.**  
+I moved away from manual notes to build a structured system. This Full Stack monorepo manages active training plans, logs sessions in real-time, and tracks load progression history.
+- **Tech Stack:** NestJS (Fastify), Prisma, SQLite, Next.js, TailwindCSS, React Query.
+- **Key Feature:** Implementation of "Active Plan" logic and structured session versioning.
+- [🔗 View Repository](https://github.com/Campos1911/train_tracker)
 
-### 🔹 Personal Financial API
-Backend system designed to manage personal financial operations, enabling users to track income, expenses, and financial organization through a structured and scalable API.
+### 🤖 Smart Lead Triage API
+**Intelligent backend system for unstructured data processing.**
+Developed an API that transforms raw data into structured business insights using RAG pipelines and AI models. Designed with a focus on resilience and scalable architecture.
+- **Tech Stack:** NestJS, Prisma, Google Gemini AI, TypeScript.
+- [🔗 View Repository](https://github.com/Campos1911/smartLeadTriage)
+
+### ⚙️ Scalable NestJS Boilerplate
+**Production-ready template focusing on background jobs and security.**
+A complete NestJS architecture template featuring robust queue implementation for asynchronous processing and secure authentication flows.
+- **Tech Stack:** NestJS, TypeScript, Message Brokers.
+- [🔗 View Repository](https://github.com/Campos1911/templateNestJS)
+
+---
+
+## 💻 Other Repositories of Interest
+- **[Personal Financial API](https://github.com/Campos1911/financeiroPessoalBackend):** Backend system to manage financial operations, tracking income, expenses, and budgets.
+- **[tratamentoAulasTc](https://github.com/Campos1911/tratamentoAulasTc):** Python data validation scripts to verify database integrity and find non-matching links.
+- **[Data Structures (UFES)](https://github.com/Campos1911/estruturaDeDados):** Foundation of my algorithmic thinking, featuring C codes developed during my Engineering degree.
 
 ---
 
 ## 🛠 Tech Stack
 
-**Backend:** Node.js, NestJS, TypeScript, Python  
-**Frontend:** Next.js, React, TailwindCSS  
-**Databases:** PostgreSQL, MongoDB, Supabase, SQLite  
-**ORM/Tools:** Prisma, TypeORM, Docker, GCP  
-**Automation & AI:** n8n, OpenAI API, RAG
+**Backend & Architecture:** Node.js, NestJS, TypeScript, Python (FastAPI/Flask)  
+**Databases & ORM:** PostgreSQL, MongoDB, Supabase, SQLite, Prisma, TypeORM  
+**Cloud & DevOps:** GCP, Docker, Queues (RabbitMQ/BullMQ)  
+**Automation & AI:** n8n, OpenAI API, Gemini API, RAG  
+**Frontend (Support):** Next.js, React, TailwindCSS  
 
 ---
 
-## 🌐 Connect with me
-[LinkedIn](https://www.linkedin.com/in/anthoni-campos)
+## 🌐 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anthoni-campos)
 
----
-
-⭐ Feel free to explore my repositories — feedback is always welcome.
+⭐ Feel free to explore my repositories — feedback and technical discussions are always welcome!
