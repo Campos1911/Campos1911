@@ -84,6 +84,6 @@ A complete NestJS architecture template featuring robust queue implementation fo
 ---
 
 ## 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anthoni-campos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anthonicampos)
 
 ⭐ Feel free to explore my repositories — feedback and technical discussions are always welcome!
